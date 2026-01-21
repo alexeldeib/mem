@@ -1,6 +1,6 @@
 # mem
 
-A fast, minimal CLI for markdown-based knowledge tracking. Store project knowledge as plain markdown files with YAML frontmatter in `.mems/`. Zero dependencies beyond Rust, git-friendly, designed for AI agent workflows.
+A minimal CLI for markdown-based knowledge tracking. Store project knowledge as plain markdown files with YAML frontmatter in `.mems/`. Zero dependencies beyond Rust, git-friendly, designed for AI agent workflows.
 
 ## Installation
 
